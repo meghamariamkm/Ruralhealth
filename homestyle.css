@@ -1,0 +1,21 @@
+
+#main {
+   
+    padding-top: 10%;
+    padding-bottom: 10%;
+    margin-top: 5%;
+    background: rgba(255, 255, 255, 0.8);
+    
+}
+
+body { 
+    background: url(https://public-media.si-cdn.com/filer/54/78/5478d7cf-4dc1-45ee-998b-ca095579ec00/telemedicine.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+   html,body {
+    margin: 0;
+    height: 100%;
+}
