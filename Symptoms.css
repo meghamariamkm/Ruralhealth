@@ -1,0 +1,30 @@
+body{
+  background-color: #0eb7eb;
+}
+
+#one{
+  border: 1px solid;
+}
+
+#cunt{
+  margin-top: 5%;
+  
+}
+#mycol {
+  background-color: white;
+}
+#mytext{
+  text-align: center;
+  margin-top: 5%;
+}
+@media (max-width:576px){
+  #headrow{
+    display: none;
+  }
+  #one{
+   border: none;
+  }
+  .row{
+    border: 1px solid
+  }
+}
