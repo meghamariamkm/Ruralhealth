@@ -1,0 +1,21 @@
+#one{
+    border: 1px solid black;
+}
+body{
+    background-color: #50c7fa;
+}
+.accordion-body{
+    background-color: white;
+}
+.accordion-header{
+    background-color: white;
+}
+@media (max-width:576px){
+    
+    .row{
+      border: 1px solid
+    }
+    #headrow{
+        display: none;
+      }
+  }
