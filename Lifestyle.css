@@ -10,6 +10,12 @@ body{
 .accordion-header{
     background-color: white;
 }
+#new {
+    background-color: white;
+    border-radius: 0.6rem;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
 @media (max-width:576px){
     
     .row{

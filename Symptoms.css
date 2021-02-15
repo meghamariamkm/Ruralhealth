@@ -12,6 +12,7 @@ body{
 }
 #mycol {
   background-color: white;
+  margin-bottom: 5%;
 }
 #mytext{
   text-align: center;
@@ -24,7 +25,5 @@ body{
   #one{
    border: none;
   }
-  .row{
-    border: 1px solid
-  }
+  
 }
