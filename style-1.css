@@ -1,0 +1,114 @@
+/*Styles for index-1.html*/
+
+.cover{	
+	width:100%;
+	height:100%;
+	position:relative;
+}
+
+body{
+
+	margin: 0; 
+	height: 100%; 
+	overflow: hidden;
+}	
+
+.content-background{
+	
+	
+	position:absolute;
+	margin-top:-46%;
+	width:90%;
+	height:60%;
+	margin-left:26%;
+}	
+
+.content-img{
+		
+		border-radius: 50%;
+		
+	
+}		
+
+.content{
+		margin-top:-290px;
+		font-size: 25px;
+		margin-left:5%;
+		font-family: 'Gloria Hallelujah', cursive;
+}
+
+.list{
+		margin-top:-15%;
+		margin-left:37%;
+		font-size: 18px;
+}	
+
+@media only screen and (max-width: 800px) {
+
+.cover{	
+	width:700px;
+	height:1560px;
+	position:relative;
+}
+
+
+.content{
+		margin-top:-640px;
+		font-size: 44px;
+		margin-left:12%;
+		font-family: 'Gloria Hallelujah', cursive;
+		margin-right:1%;
+}
+
+.content{
+		margin-top:-650px;
+		font-size: 45px;
+		margin-left:3%;
+		font-family: 'Gloria Hallelujah', cursive;
+}
+
+body{
+
+	margin: 0; 
+	height: 1560px; 
+	overflow: hidden;
+}	
+
+.content-img{
+		
+		border-radius: 0%;
+		width:95%;
+		height:16%;
+		margin-left:-1%;
+		
+	
+}
+
+.content-background{
+	
+	
+	position:absolute;
+	margin-top:-1500px;
+	overflow:hidden;
+	margin-left:6%;
+	width:650px;
+	height:4500px;
+}
+
+.cover-img{
+	height:110%;
+	width:130%;
+	overflow:hidden;
+	margin-left:0;
+}	
+
+.list{
+		margin-top:-250px;
+		margin-left:9%;
+		font-size: 34px;
+		margin-right: -150px;
+}	
+
+
+
+ }
