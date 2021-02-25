@@ -27,7 +27,7 @@
 </body>
 
 <style>
-.container {
+	.container {
   min-height: 100vh;
   display: flex;
   align-items: center;
@@ -35,8 +35,7 @@
 }
 
 .box {
-  height: 300px;
-  width: 200px;
+ 
   background: #fff;
   padding: 50px;
   border-radius: 10px;
@@ -45,11 +44,19 @@
 }
 
 body {
-  background: url(cover.jpg);
-  overflow-x: hidden;
+   background: url(cover.jpg) no-repeat center center fixed; 
+  background-size: cover;
+  overflow: hidden;
 }
 
 a{	text-decoration: none;
+}
+
+@media (max-width: 800px) {
+
+	.box{
+		font-size:20px;
+	}	
 }
 
 </style>
